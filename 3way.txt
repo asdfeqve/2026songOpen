@@ -3,6 +3,7 @@ asdlflk
 
 
 
+<<<<<<< HEAD
 last
 
 
@@ -10,4 +11,7 @@ last
 
 
 llast
+=======
+sadfsadfsadfasd
+>>>>>>> 3way
 
