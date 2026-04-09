@@ -2,9 +2,9 @@
 **컴퓨터공학과 2학년입니다.**
 
 ## 기술 스팩
--c
--java
--Git $ github
+- c
+- java
+- Git $ github
 
 ### 코드 샘플
 ```pyton
